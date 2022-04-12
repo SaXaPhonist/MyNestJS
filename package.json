@@ -1,5 +1,8 @@
 {
-  "dependencies": {
-    "yarn": "^1.22.18"
-  }
+  "name": "MyNestJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SaXaPhonist/MyNestJS.git",
+  "author": "Aliaksandr <dfdf1534@gmail.com>",
+  "license": "MIT"
 }
